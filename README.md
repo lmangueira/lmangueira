@@ -2,7 +2,7 @@
 
 I'm Manuel Angueira, a Full Stack Developer.
 
-Always looking for a challenge.
+<!--Always looking for a challenge.-->
 
 **Some Skills**
 
